@@ -50,7 +50,7 @@ pip install mtaio
 以下は、主要な機能を示す簡単な例です:
 
 ```python
-from mtaio import TaskExecutor, RateLimiter, TimeoutManager
+from mtaio.core import TaskExecutor, RateLimiter, TimeoutManager
 
 async def main():
     # レート制限付きタスク実行器を作成
@@ -81,7 +81,7 @@ if __name__ == "__main__":
 `TaskExecutor`は並行性制御付きのコルーチン実行メソッドを提供します:
 
 ```python
-from mtaio import TaskExecutor
+from mtaio.core import TaskExecutor
 
 async def example():
     executor = TaskExecutor()

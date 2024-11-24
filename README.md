@@ -50,7 +50,7 @@ pip install mtaio
 Here's a simple example that demonstrates some core features:
 
 ```python
-from mtaio import TaskExecutor, RateLimiter, TimeoutManager
+from mtaio.core import TaskExecutor, RateLimiter, TimeoutManager
 
 async def main():
     # Create a rate-limited task executor
@@ -81,7 +81,7 @@ if __name__ == "__main__":
 The `TaskExecutor` provides methods for executing coroutines with concurrency control:
 
 ```python
-from mtaio import TaskExecutor
+from mtaio.core import TaskExecutor
 
 async def example():
     executor = TaskExecutor()
