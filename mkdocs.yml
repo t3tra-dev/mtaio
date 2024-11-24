@@ -1,0 +1,152 @@
+site_name: mtaio Docs
+site_url: https://t3tra-dev.github.io/mtaio/
+site_author: t3tra
+site_description: mtaio documentation (async I/O framework for Python).
+repo_name: mtaio GitHub
+repo_url: https://github.com/t3tra-dev/mtaio
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: "mtaio documentation &copy; 2024-present by t3tra is licensed under MIT"
+
+# Configuration
+theme:
+  name: material
+  language: en
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - navigation.expand
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/favicon.ico
+  logo: assets/images/logo.png
+
+# Plugins
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+          site_name: mtaio Docs
+          nav_translations:
+            Home: Home
+            Getting Started: Getting Started
+            Installation: Installation
+            Basic Usage: Basic Usage
+            Advanced Usage: Advanced Usage
+            API Reference: API Reference
+            Deployment: Deployment
+            Troubleshooting: Troubleshooting
+        - locale: ja
+          name: 日本語
+          build: true
+          site_name: mtaioドキュメント
+          nav_translations:
+            Home: ホーム
+            Getting Started: はじめに
+            Installation: インストール
+            Basic Usage: 基本的な使い方
+            Advanced Usage: 高度な使い方
+            Overview: 概要
+            API Reference: APIリファレンス
+            Deployment: デプロイメント
+            Troubleshooting: トラブルシューティング
+      reconfigure_material: true
+      reconfigure_search: true
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Extra configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/t3tra-dev/mtaio
+
+# Additional CSS and JavaScript
+extra_css:
+  - assets/stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+
+# Navigation structure
+nav:
+  - Home: index.md
+  - Getting Started: guides/getting-started.md
+  - Installation: guides/installation.md
+  - Basic Usage: guides/basic-usage.md
+  - Advanced Usage: guides/advanced-usage.md
+  - API Reference:
+    - Overview: api/index.md
+    - Cache: api/cache.md
+    - Core: api/core.md
+    - Data: api/data.md
+    - Decorators: api/decorators.md
+    - Events: api/events.md
+    - Exceptions: api/exceptions.md
+    - Logging: api/logging.md
+    - Monitoring: api/monitoring.md
+    - Optimization: api/optimization.md
+    - Protocols: api/protocols.md
+    - Resources: api/resources.md
+    - Typing: api/typing.md
+  - Deployment: guides/deployment.md
+  - Troubleshooting: guides/troubleshooting.md
