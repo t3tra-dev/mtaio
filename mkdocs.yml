@@ -12,6 +12,9 @@ copyright: "mtaio documentation &copy; 2024-present by t3tra is licensed under M
 # Configuration
 theme:
   name: material
+  custom_dir: overrides
+  static_templates:
+    - 404.html
   language: en
   features:
     - content.code.annotate
