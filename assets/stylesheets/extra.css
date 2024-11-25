@@ -1,0 +1,6 @@
+/* モバイル対応の改善 */
+@media screen and (max-width: 76.1875em) {
+    .md-nav__title {
+        padding: 1rem;
+    }
+}
