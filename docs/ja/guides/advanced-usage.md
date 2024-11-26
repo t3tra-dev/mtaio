@@ -351,6 +351,6 @@ class ManagedResources:
 
 ## 次のステップ
 
-- [サンプルアプリケーション](https://github.com/t3tra-dev/mtaio/tree/main/examples.py)をチェック
+- [サンプルリポジトリ](https://github.com/t3tra-dev/mtaio/tree/main/examples)をチェック
 - [APIリファレンス](../api/index.md)を確認
 - [コミュニティディスカッション](https://github.com/t3tra-dev/mtaio/discussions)に参加
