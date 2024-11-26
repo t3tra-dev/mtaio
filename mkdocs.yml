@@ -123,6 +123,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/t3tra-dev/mtaio
+  analytics:
+    provider: google
+    property: G-MK5ZBWD4PT
 
 # Additional CSS and JavaScript
 extra_css:
