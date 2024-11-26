@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/404/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/404/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/404/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/cache/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/cache/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/cache/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/core/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/core/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/core/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/data/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/data/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/data/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/decorators/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/decorators/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/decorators/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/events/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/events/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/events/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/exceptions/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/exceptions/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/exceptions/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/logging/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/logging/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/logging/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/monitoring/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/monitoring/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/optimization/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/optimization/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/optimization/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/protocols/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/protocols/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/protocols/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/resources/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/resources/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/resources/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/api/typing/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/typing/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/typing/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/guides/advanced-usage/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/advanced-usage/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/advanced-usage/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/guides/basic-usage/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/basic-usage/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/basic-usage/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/guides/deployment/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/deployment/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/guides/getting-started/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/guides/installation/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/installation/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/installation/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/guides/troubleshooting/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/troubleshooting/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/troubleshooting/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/404/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/404/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/404/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/cache/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/cache/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/cache/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/core/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/core/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/core/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/data/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/data/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/decorators/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/decorators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/decorators/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/events/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/events/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/events/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/exceptions/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/exceptions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/exceptions/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/logging/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/logging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/logging/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/monitoring/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/monitoring/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/optimization/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/optimization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/optimization/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/protocols/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/protocols/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/protocols/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/resources/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/resources/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/api/typing/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/api/typing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/api/typing/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/guides/advanced-usage/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/advanced-usage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/advanced-usage/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/guides/basic-usage/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/basic-usage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/basic-usage/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/guides/deployment/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/deployment/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/guides/getting-started/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/guides/installation/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/installation/"/>
+    </url>
+    <url>
+        <loc>https://t3tra-dev.github.io/mtaio/ja/guides/troubleshooting/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://t3tra-dev.github.io/mtaio/ja/guides/troubleshooting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://t3tra-dev.github.io/mtaio/guides/troubleshooting/"/>
+    </url>
+</urlset>
